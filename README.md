@@ -5,5 +5,5 @@ Since the image require systemctl to work, running it must be on privileged mode
 ```
 docker pull awibisono/rpki-validator-3
 
-docker run --privileged --name rpki-validator-3 -v /sys/fs/cgroup:/sys/fs/cgroup:ro -p 8080:8080 -d awibisono/rpki-validator-3
+docker run --privileged --name rpki-validator-3 -p 8080:8080 -d awibisono/rpki-validator-3
 ```
