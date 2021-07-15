@@ -1,10 +1,10 @@
 ```diff
 
-! ******************************************************************************************************
-! This project is no longer maintained. Please migrate to alternative RPKI Relying Party software.      
-!                                                                                                       
-! No more security updates, RFCs or RIR policies will be implemented.                                   
-! ******************************************************************************************************
+! **************************************************************************************************
+! This project is no longer maintained. Please migrate to alternative RPKI Relying Party software.  
+!                                                                                                   
+! No more security updates, RFCs or RIR policies will be implemented.                               
+! **************************************************************************************************
 ```
 
 These are a number of actively maintained Open Source alternatives:
