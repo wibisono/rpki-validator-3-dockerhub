@@ -3,7 +3,7 @@
 ! ************************************************************************************************
 ! From 1st July 2021 this project is no longer maintained!                                        
 ! There are no more security updates, RFCs or RIR policies being implemented.                     
-! Please migrate to an alternative RPKI Relying Party software! 
+! Please migrate to an alternative RPKI Relying Party software!                                   
 ! ************************************************************************************************
 ```
 
